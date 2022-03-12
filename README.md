@@ -37,3 +37,12 @@ There are four main changes in the ninth grade at Thomas High School due to the 
 - Second, the passing percentage decreased for reading and math, which impacted spending. 
 - Third, the students population decreased impacting the passing rate. 
 - The last, Thomas High School had the overall passing percentage decreased.
+
+#
+
+**Contact:**
+**E-mail:** mciano@hotmail.co.uk
+
+**LinkedIn:** https://www.linkedin.com/in/marciorciano/
+
+#
